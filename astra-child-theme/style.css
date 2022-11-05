@@ -5,12 +5,17 @@
  Author: Emily Friis
  Author URI:   https://emilythecartoonist.dk/storyscaping/
  Template:     astra
- Version:      1.0.3
+ Version:      1.0.4
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  astrachild
 */
 body {
-    background: purple;
+background-image: url("https://emilythecartoonist.dk/storyscaping/wp-content/uploads/2022/10/pap-baggrund.png"); 
+background-position: center center; 
+background-size: cover; 
+background-repeat: no-repeat; 
+background-attachment: fixed;
 }
+
